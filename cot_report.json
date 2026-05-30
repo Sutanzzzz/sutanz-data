@@ -1,0 +1,10 @@
+{
+  "XAUUSD": {
+    "commercial_long": 184500,
+    "commercial_short": 62100
+  },
+  "XAGUSD": {
+    "commercial_long": 48200,
+    "commercial_short": 51500
+  }
+}
